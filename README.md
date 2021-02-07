@@ -1,6 +1,6 @@
 # HIMAWARI_BAND_03-BAND_13
-Himawari Satellite Data Plot for Band 03 and Band 13
-Plot data showing the area of Kalimantan Island, Indonesia
+Ploting Data Himawari 8 Satellite for Band 03 and Band 13
+Ploting data showing the area of Kalimantan Island, Indonesia
 
 # Data
 Time Used 2020-02-08 Hours 06.00 UTC - 06.50 UTC
