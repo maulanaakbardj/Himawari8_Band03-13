@@ -9,7 +9,8 @@ Time Used 2020-02-08 Hours 06.00 UTC - 06.50 UTC
 The data used is the Himawari-8 Satellite Data with type R21_FLDK.06001
 
 Data : http://bit.ly/3q9Egm0
-*if you want to access my data, send a message when requesting access.
+
+*if you want to access my data, send a message when requesting access.*
 
 # Result
 Band 03
